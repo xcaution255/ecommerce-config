@@ -1,1 +1,3 @@
-
+spring:
+  application:
+    description: This is microservice arch platform config server
